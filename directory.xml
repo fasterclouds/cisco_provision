@@ -1,0 +1,14 @@
+<CiscoIPPhoneDirectory>
+	<Title>Directorio Telefonico</Title>
+	<Prompt>Directorio Telefonico</Prompt>
+	
+	<DirectoryEntry>
+		<Name>IVR</Name>
+		<Telephone>6500</Telephone>
+	</DirectoryEntry>
+	<DirectoryEntry>
+		<Name>Operador</Name>
+		<Telephone>1001</Telephone>
+	</DirectoryEntry>
+	
+</CiscoIPPhoneDirectory>
