@@ -1,2 +1,1 @@
-# cisco_provision
-Cisco provision stuff
+"# cisco_provision" 
